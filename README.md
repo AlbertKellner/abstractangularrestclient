@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.4.
 
-A sample Project to the blog post about read data from a laravel webservice with angular 2 and an abstract rest service.
+A sample Project to the [blog post](https://maxmayr.com/index.php/2017/12/22/angular-2-rest-client-with-abstract-base-client) about read data from a laravel webservice with angular 2 and an abstract rest service.
 
 ## Development server
 
